@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:44:24.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="B70aSjGyT0D9TpaS2fy5" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:46:14.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="2Ce5vCwI7nGBWZ_-FEKL" version="16.6.6" type="github">
   <diagram id="eaP1uro2qp2I-WsPj1LU" name="Page-1">
-    <mxGraphModel dx="6468" dy="4102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5339" dy="3472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -3036,10 +3036,10 @@
           <mxGeometry x="390" y="232" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-813" value="&lt;b style=&quot;font-size: 12px&quot;&gt;Свободные чаты&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-801">
-          <mxGeometry x="390" y="262.5" width="200" height="30" as="geometry" />
+          <mxGeometry x="390" y="287.5" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-814" value="&lt;b&gt;Мои пары&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-801">
-          <mxGeometry x="390" y="292.5" width="200" height="30" as="geometry" />
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-814" value="&lt;b&gt;Мои группы&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-801">
+          <mxGeometry x="390" y="257.5" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-833" value="09.02.07-2 (2019)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-801">
           <mxGeometry x="630" y="210" width="250" height="50" as="geometry" />
@@ -3206,20 +3206,8 @@
         <mxCell id="P3VSI53RcdAJj_VSA0h_-953" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
           <mxGeometry x="370" y="190" width="240" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-954" value="Моя страница (карта преподавателя)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
-          <mxGeometry x="390" y="202" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-955" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
           <mxGeometry x="610" y="190" width="290" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-956" value="&lt;b style=&quot;font-size: 12px&quot;&gt;Группы&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
-          <mxGeometry x="390" y="232" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-957" value="&lt;b style=&quot;font-size: 12px&quot;&gt;Свободные чаты&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
-          <mxGeometry x="390" y="262.5" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-958" value="&lt;b&gt;Мои пары&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
-          <mxGeometry x="390" y="292.5" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-959" value="09.02.07-2 (2019)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
           <mxGeometry x="630" y="210" width="250" height="50" as="geometry" />
@@ -3337,6 +3325,18 @@
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1026" value="Добавить фото" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
           <mxGeometry x="1213" y="966" width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1028" value="&lt;b style=&quot;font-size: 12px&quot;&gt;Свободные чаты&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
+          <mxGeometry x="390" y="287.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1029" value="&lt;b&gt;Мои группы&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
+          <mxGeometry x="390" y="257.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1030" value="&lt;b style=&quot;font-size: 12px&quot;&gt;Группы&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
+          <mxGeometry x="390" y="232" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1031" value="Моя страница (карта преподавателя)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-948">
+          <mxGeometry x="390" y="202" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
