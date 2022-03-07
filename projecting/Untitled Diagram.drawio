@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T14:52:26.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="-2NpPYuSXf7CuMWWzqB1" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T14:52:47.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="kUuAkKKXtAw6J7FRMXBA" version="16.6.6" type="github">
   <diagram id="eaP1uro2qp2I-WsPj1LU" name="Page-1">
     <mxGraphModel dx="4981" dy="3272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3419,13 +3419,13 @@
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1096" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/education-and-school-glyph-24-px/24/Desk_chair_pupil_school_student_student_desk-128.png;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
           <mxGeometry x="780" y="497" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1100" value="&lt;span&gt;Тимергалиев Адель Илназович&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fontStyle=4" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1100" value="&lt;span&gt;1. Тимергалиев Адель Илназович&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fontStyle=0" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
           <mxGeometry x="916" y="265" width="634" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1101" value="Тимергалиев Инсаф Илназович" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fontStyle=4" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1101" value="2. Тимергалиев Инсаф Илназович" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fontStyle=0" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
           <mxGeometry x="916" y="325" width="634" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1102" value="Бикмухаметов Дамир Аделевич" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fontStyle=4" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1102" value="3. Бикмухаметов Дамир Аделевич" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fontStyle=0" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
           <mxGeometry x="916" y="385" width="634" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1103" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1032">
