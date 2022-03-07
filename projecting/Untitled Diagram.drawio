@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T16:43:35.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="g-gmBDv5v-71CYdYlcC9" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T17:05:58.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="7Hwoeg42e26Eye4BjOOq" version="16.6.6" type="github">
   <diagram id="eaP1uro2qp2I-WsPj1LU" name="Page-1">
-    <mxGraphModel dx="4981" dy="3272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="31748" dy="18218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -4130,9 +4130,6 @@
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1388" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png;fontSize=13;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
           <mxGeometry x="790" y="502" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1389" value="Группа 09.02.07-3 (2019)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="210" width="450" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1390" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/22x22/actions/journal.png;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
           <mxGeometry x="760" y="224" width="22" height="22" as="geometry" />
         </mxCell>
@@ -4148,60 +4145,6 @@
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1394" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/22x22/actions/journal.png;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
           <mxGeometry x="760" y="506" width="22" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1395" value="&lt;h1&gt;Понедельник 07.03.2022&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="256" width="360" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1396" value="&lt;h1&gt;Вторник 07.03.2022&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="630" width="360" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1397" value="Написать домашнее задание..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="472" width="277" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1398" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="472" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1399" value="Загрузить файлы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="534" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1400" value="Добавить фото" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="592" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1401" value="Написать план урока..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="306" width="277" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1402" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="306" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1403" value="Загрузить файлы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="368" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1404" value="Добавить фото" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="426" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1405" value="Написать план урока..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="680" width="277" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1406" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="680" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1407" value="Загрузить файлы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="742" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1408" value="Добавить фото" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="800" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1409" value="Написать домашнее задание..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;verticalAlign=top;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="916" y="846" width="277" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1410" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="846" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1411" value="Загрузить файлы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="908" width="200" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="P3VSI53RcdAJj_VSA0h_-1412" value="Добавить фото" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
-          <mxGeometry x="1213" y="966" width="200" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1413" value="&lt;b style=&quot;font-size: 12px&quot;&gt;Заявки на создание новости&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
           <mxGeometry x="390" y="287.5" width="200" height="30" as="geometry" />
         </mxCell>
@@ -4213,6 +4156,12 @@
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1453" value="&lt;b&gt;Широковещательная рассылка&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
           <mxGeometry x="390" y="232" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1454" value="&lt;b&gt;Группа 09.02.07-3 (2019)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
+          <mxGeometry x="916" y="201" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P3VSI53RcdAJj_VSA0h_-1455" value="&lt;font style=&quot;font-size: 9px&quot;&gt;01.01.2022-&lt;br&gt;08.01.2022&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="P3VSI53RcdAJj_VSA0h_-1367">
+          <mxGeometry x="990" y="234.5" width="130" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="P3VSI53RcdAJj_VSA0h_-1417" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="12000" y="3499" width="1921.78" height="1100" as="geometry" />
