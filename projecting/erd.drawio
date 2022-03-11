@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T20:22:09.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="yMJNW_HHFT_Ds1KZC8ab" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T20:25:21.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="-Aw7T92ICUXnCUd1aiJz" version="17.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="9480" dy="9693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1673" dy="5334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4938,7 +4938,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UJxA4oeEV6R31Kruo1fh-1746" value="&lt;h1&gt;Что нужно доделать&lt;/h1&gt;&lt;p&gt;Нужно добавить атрибутов к таблицам, таким как:&lt;/p&gt;&lt;p&gt;person =&amp;gt; rating&lt;/p&gt;&lt;p&gt;group =&amp;gt; rating&lt;/p&gt;&lt;p&gt;Добавить возможность отправки личных сообщений&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;labelBorderColor=none;sketch=0;fontSize=31;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="11190" y="-4177" width="920" height="655" as="geometry" />
+          <mxGeometry x="11190" y="-4177" width="810" height="437" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
