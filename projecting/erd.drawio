@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T19:18:54.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="V7sEpHUCXedw1dEZYyPu" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T19:19:48.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="Yq-Z-tvkF0RvEA_PGnLw" version="17.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2370" dy="4623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1673" dy="4234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1980,7 +1980,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UJxA4oeEV6R31Kruo1fh-682" value="student" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;dashed=1;strokeWidth=1;strokeColor=#9E9E9E;opacity=50;textOpacity=50;" vertex="1" parent="1">
-          <mxGeometry x="5820" y="-2040" width="180" height="160" as="geometry" />
+          <mxGeometry x="5820" y="-2060" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="UJxA4oeEV6R31Kruo1fh-683" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;opacity=30;strokeColor=#9E9E9E;" vertex="1" parent="UJxA4oeEV6R31Kruo1fh-682">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -2142,6 +2142,15 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UJxA4oeEV6R31Kruo1fh-773" value="Отметки студентов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6080" y="-2100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxA4oeEV6R31Kruo1fh-774" value="Информация дня учебного плана" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5840" y="-1890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UJxA4oeEV6R31Kruo1fh-775" value="Файлы учебного дня" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5600" y="-1845" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
