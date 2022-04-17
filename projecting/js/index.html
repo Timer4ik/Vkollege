@@ -22,82 +22,74 @@
             return days[this.getDay()];
          };
       })();
+
       var now = new Date();
       var day = now.getDayName();
       var month = now.getMonthName();
 
-      class Week {
-         Days = []
-         constructor(startWeekDate, endWeekDate) {
-            this.StartWeekDate = startWeekDate;
-            this.EndWeekDate = endWeekDate;
-
-            let pointer = new Date(this.EndWeekDate.getTime() - this.StartWeekDate.getTime()).getDate();
-            for (let i = 0; i < pointer; i++) {
-               this.Days.push(new Date(this.StartWeekDate.getTime() + (i * 24 * 360 * 10000)));
+      class StudyPlanGenerator {
+         constructor(from, to) {
+            let date = [from, 0, 1]
+            function addDay(date, days) {
+               date = new Date(date.getTime() + (days * 24 * 360 * 10000))
+               return date
             }
-         }
-      }
-
-      class StudyPlan {
-         Days = []
-         Weeks = []
-         constructor(startDate, endDate) {
-            this.StartDate = startDate
-            this.EndDate = endDate
-
-            this.Days = this.GenerateDays(startDate,endDate)
-            this.Weeks = this.GenerateWeeks(this.Days)
-
-
-         }
-         GenerateDays(startDate,endDate) {
+            let firstDay = new Date(...date)
             let days = []
-            let pointerDate = new Date(startDate)
-
-            while (pointerDate.getFullYear() < endDate.getFullYear()) {
-               pointerDate = new Date(pointerDate.getTime() + 24 * 360 * 10000)
-               days.push(pointerDate)
-            }
-
-            if(days[days.length-1].getFullYear() >= endDate.getFullYear()){
-               days.pop()
-            }
-
-            return days
-         }
-
-         GenerateWeeks(days) {
             let weeks = []
-            for (let i = 0; i < days.length; i++) {
-
-               if (days[i].getDayName() == "Monday" && weeks.length != 0 ) {
-                  weeks.push(new Week(days[i], new Date(days[i].getTime() + 6 * 24 * 360 * 10000)));
+            let firstDayMonday = firstDay.getDayName() === "Monday"
+            while (firstDay.getFullYear() < to) {
+               let week = {}
+               if (!firstDayMonday) {
+                  week.startDate = firstDay
+                  firstDayMonday = true
+                  weeks.push(week)
+               } else {
+                  if (firstDay.getDayName() === "Monday") {
+                     week.startDate = firstDay
+                  }
                }
-
-               if (weeks.length == 0) {
-                  weeks.push(new Week(days[0], days[i]));
+               if (firstDay.getDayName() === "Sunday") {
+                  week.endDate = firstDay
                }
+               else if(addDay(firstDay,1).getFullYear() === to){
+                  week.endDate = firstDay
+                  weeks.push(week)
+               }
+               if (firstDay.getDayName() === "Monday" || firstDay.getDayName() === "Sunday") {
+                  weeks.push(week)
+               }
+               days.push(firstDay)
+               firstDay = addDay(firstDay, 1)
             }
-            return weeks;
-         }
-         ShowStudyPlan() {
-            this.Weeks.forEach((week, i) => {
-               console.log(`startDate:${week.StartWeekDate.toLocaleString()}`);
-               week.Days.forEach(day => {
-                  console.log(`${day.toLocaleString()} ${day.getDayName()}`);
+
+            let weeksOutput = []
+            for (let i = 0; i < weeks.length - 1; i += 2) {
+               let week = {
+                  startDate: 0,
+                  endDate: 0
+               }
+               week.startDate = weeks[i].startDate
+               week.endDate = weeks[i + 1].endDate
+               weeksOutput.push(week)
+               week.days = days.filter(day => {
+                  return day >= week.startDate && day <= week.endDate
                })
-               console.log(`endDate:${week.EndWeekDate.toLocaleString()}`);
-               console.log("\n")
-            })
-            console.log(`Количество недель: ${this.Weeks.length}`);
+            }
+            this.weeks = weeksOutput
+            this.days = days
          }
       }
 
-      let studyPlan = new StudyPlan(new Date(2024, 0, 0), new Date(2025, 1, 1))
 
-      studyPlan.ShowStudyPlan()
-      // console.log(studyPlan.Days) 
+
+      let studyPlan = new StudyPlanGenerator(2020, 2021)
+
+      studyPlan.weeks.forEach((week, i) => {
+         console.log(week)
+      })
+
+
 
 
    </script>
